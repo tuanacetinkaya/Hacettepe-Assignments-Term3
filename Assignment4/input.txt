@@ -1,0 +1,6 @@
+this is a text to decode
+ANY UPPERCASE INPUT WILL BE INTERPRETED AS LOWERCASE IN THE TREE
+multiple lines will be two different characters as \ and n in the resulted text when decoded
+first line
+second line 
+will be resulted as: first line\nsecond line 
